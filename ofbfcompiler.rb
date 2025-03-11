@@ -1,7 +1,7 @@
 class Ofbfcompiler < Formula
   desc "The one-file brainfuck compiler written on Python."
   homepage "https://github.com/ktilted/onefilepythonbrainfuckcompiler"
-  url "https://github.com/ktilted/onefilepythonbrainfuckcompiler/archive/refs/tags/ofbfcompiler-v1.0.0.tar.gz"
+  url "https://github.com/KTilted/OneFilePythonBrainfuckCompiler/releases/download/v1.0.0/ofbfcompiler-v1.0.0.tar.gz"
   sha256 "aee592a271bfa809c8cfefaacc97db83ed6f0fd084d26cce783bc42d463e2f7e"
   license "GNU GPLv3"  # Укажите лицензию вашего проекта
 
