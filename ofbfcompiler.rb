@@ -1,4 +1,4 @@
-class Brainfuck < Formula
+class Ofbfcompiler < Formula
   desc "The one-file brainfuck compiler written on Python."
   homepage "https://github.com/ktilted/onefilepythonbrainfuckcompiler"
   url "https://github.com/ktilted/onefilepythonbrainfuckcompiler/archive/refs/tags/ofbfcompiler-v1.0.0.tar.gz"
