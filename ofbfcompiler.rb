@@ -8,7 +8,7 @@ class Ofbfcompiler < Formula
   depends_on "python"  # Если ваш компилятор требует Python
 
   def install
-    bin.install "brainfuck.py" => "brainfuck"  # Устанавливаем файл и переименовываем его
+    bin.install "OneFileBrainfuckCompiler/brainfuck.py" => "brainfuck"  # Устанавливаем файл и переименовываем его
   end
 
   test do
